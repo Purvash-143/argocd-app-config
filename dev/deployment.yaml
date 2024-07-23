@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: purvash/devops-image:51
+        image: purvash/devops-image:latest
         ports:
         - containerPort: 8080
